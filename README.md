@@ -1,2 +1,5 @@
-# shellscripts
-These are the shell scripts I created. It can be used with a "monochrome license". I don't support these scripts so I don't know if the environment becomes dirty.
+# My shellscripts 
+これらのシェルスクリプトは僕が作成しました。動作確認は一応していますが、環境が汚れたりうまいこと動かなくても知りません。また、アップデートする予定もないです。
+
+## つまり何が言いたいの？
+ここにあるシェルスクリプトは、僕が作ったやつを適当に置いて、使いたい人は使って、バグったら自分で修正してねってこと。
