@@ -11,6 +11,7 @@ echo "Downloaded and completed for unzip"
 
 echo "-------------"
 
+cd ./touch-server-main/
 echo "Install mime-types from npm..."
 npm install mime-types
 echo "Installed mime-types from npm"
