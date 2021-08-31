@@ -6,7 +6,7 @@ echo "-------------"
 
 echo "Download Zip archive and unzip..."
 wget https://github.com/Sorakime/Touch-Server/archive/refs/heads/main.zip
-unzip main.zip
+unzip touch-server-main.zip
 echo "Downloaded and completed for unzip"
 
 echo "-------------"
